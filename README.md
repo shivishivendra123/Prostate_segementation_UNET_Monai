@@ -52,6 +52,9 @@ To evaluate the trained model:
 ```bash
 python evaluate.py --data_dir /path/to/data --model_path /path/to/model.pth
 ```
+
+![image](https://github.com/user-attachments/assets/e762d726-7aec-43cb-8c4e-738b0674e526)
+
 This will compute Dice scores and other relevant segmentation metrics.
 
 ## Inference
